@@ -13,3 +13,6 @@ plot(mtcars$wt, mtcars$mpg,
      col = "blue", pch = 19)
 
 hist(mtcars$mpg)
+
+#Buat di cabang visual
+summary(mtcars)
