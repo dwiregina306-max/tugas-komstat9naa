@@ -13,3 +13,6 @@ plot(mtcars$wt, mtcars$mpg,
      col = "blue", pch = 19)
 
 hist(mtcars$mpg)
+
+#Ini ngetiknya di github langsung
+print("Nama Saya Dwi Regina Putri")
