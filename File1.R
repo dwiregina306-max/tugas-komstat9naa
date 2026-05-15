@@ -3,5 +3,5 @@
 #1. MEMBUAT PROSES COMMIT DI R
 data(mtcars)
 head(mtcars)
-summary(mtcars)
+
 
