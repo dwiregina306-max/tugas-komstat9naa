@@ -12,3 +12,4 @@ plot(mtcars$wt, mtcars$mpg,
      ylab = "Miles/(US) gallon",
      col = "blue", pch = 19)
 
+hist(mtcars$mpg)
